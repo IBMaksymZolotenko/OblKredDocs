@@ -16,7 +16,7 @@
 |  |  | |
 |  |  | |
 
-### <a herf="dic.Products.md">dic.Products</a>
+### <a href="dic.Products.md">dic.Products</a>
 Продукти.
 
 ### mis.Credits
