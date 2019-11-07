@@ -1,4 +1,4 @@
-<a href="README.md">Main</a>
+<a href="README.md">README</a>
 # dic.Products
 Довідник продуктів.
 
